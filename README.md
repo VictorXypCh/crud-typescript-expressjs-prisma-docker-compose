@@ -1,7 +1,6 @@
 # crud-typescript-expressjs-prisma-docker-compose
 
-## Intruction
-
+## Instruction
 
 #### Start Docker 
 
